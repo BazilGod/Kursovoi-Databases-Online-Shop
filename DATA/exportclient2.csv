@@ -1,0 +1,3 @@
+name;surname;sex;email;password;status;registration_date
+Василий;Иконов;М;ikonov.2011@mail.ru;1234;ACTIVE    ;11.12.18
+Богдан;Харингтонов;М;xarington@mail.ru;12345;ACTIVE    ;11.12.18
